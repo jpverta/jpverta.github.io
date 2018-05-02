@@ -20,9 +20,9 @@ Female and male salmon maturation being controlled by the same vgll3 region pr
 Stickleback freshwater forms have evolved from marine ancestors in parallel.
 Variation in gene regulatory mechanisms play an important role in producing phenotypic variation that natural selection can act upon. Regulatory evolution seems to be tightly linked to both adaptive divergence of lineages as well as divergence of established species. We have a poor understanding of regulatory evolution during the very early stages of incipient speciation where adaptation-with-gene-flow still dominates, as it does in sticklebacks. These fish are a great model to study regulatory evolution at short divergence timescales as many of the freshwater environments sticklebacks have colonised were formed after the last glaciation only ~10 000 years ago, and the repeated nature of freshwater adaptation provides a system where we can study regulatory changes that have occurred in parallel in independent bouts of adaptation.
 
-During my post-doct at the Jones lab (FML/MPI Tuebingen), I characterised gene regulatory divergence between freshwater and marine sticklebacks in order to better understand the contribution of different regulatory mechanisms to adaptation and incipient speciation. To reach this goal I used whole-genome and mRNA sequencing combined with bioinformatics and statistical analyses to explore the ways in which gene expression divergence in the gill tissue is linked parallel freshwater adaptation.
+![Alt text](/Users/verta/myblog/jpverta.github.io/figures/StickleParalStrains.jpg)
 
-Some of our first results on the project are summarised in this poster.
+During my post-doct at the Jones lab (FML/MPI Tuebingen), I characterised gene regulatory divergence between freshwater and marine sticklebacks in order to better understand the contribution of different regulatory mechanisms to adaptation and incipient speciation. To reach this goal I used whole-genome and mRNA sequencing combined with bioinformatics and statistical analyses to explore the ways in which gene expression divergence in the gill tissue is linked parallel freshwater adaptation.
 
 #### eQTL architecture and expression evolution in conifers
 
@@ -30,6 +30,8 @@ Understanding the genetic basis of variation in phenotypes is a central goal in 
 
 During my PhD I developed an approach to study the genetic basis of gene expression variation that can be applied to conifer trees. Conifers are foundation species of boreal forests that are increasingly threatened by effects of climate change such as extreme weather and insect outbreaks. It is therefore timely that we develop tools and approaches with which we can study microevolutionary processes in conifer trees and assess the adaptive potential of populations.
 
+
+![Alt text](/Users/verta/myblog/jpverta.github.io/figures/figure1_verta_new_phytol.jpg)
 
 Conifer megagametophyte-embryo system to map eQTL.
 
