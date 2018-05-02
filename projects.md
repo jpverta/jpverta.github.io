@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 
-#### Molecular mechanisms of sex-dependent dominance in age at maturity of Atlantic salmon*
+#### Molecular mechanisms of sex-dependent dominance in age at maturity of Atlantic salmon
 
 Trade-offs between the pace of maturation and the number of progeny are common in nature. One example of such evolutionary trade-off is seen in Atlantic salmon, which may grow to impressive size and produce thousands of eggs. Growing big in salmon is related to the number of years it spends at sea feeding. Feeding for a long period means potential for more offspring, but with the cost of increased risk of dying before reproducing. In Atlantic salmon this trade-off seems to be different for males and females - females tend to be bigger (and older) than males by the time the fish returns to its native river to spawn.
 
@@ -15,7 +15,7 @@ The genetic basis of age at maturity (when salmon return to spawn) has been mapp
 
 Female and male salmon maturation being controlled by the same vgll3 region produces sexual conflict - female fitness favours the L allele, while male fitness favours the E allele. This sexual conflict is resolved in heterozygous salmon by sex-dependent dominance: female fish that have both alleles mature later, while male heterozygous fish mature early (see figure). From an evolutionary perspective, the sex-dependent dominance observed in salmon is a mechanism for sexual conflict resolution that maintains adaptive variation within populations. My post-doc at the Primmer lab addresses the molecular mechanisms how sex-dependent dominance in vgll3 is encoded in the salmon genome.
 
-#### Genetic basis of gene expression divergence in threespine sticklebacks*
+#### Genetic basis of gene expression divergence in threespine sticklebacks
 
 Variation in gene regulatory mechanisms play an important role in producing phenotypic variation that natural selection can act upon. Regulatory evolution seems to be tightly linked to both adaptive divergence of lineages as well as divergence of established species. We have a poor understanding of regulatory evolution during the very early stages of incipient speciation where adaptation-with-gene-flow still dominates, as it does in sticklebacks. These fish are a great model to study regulatory evolution at short divergence timescales as many of the freshwater environments sticklebacks have colonised were formed after the last glaciation only ~10 000 years ago, and the repeated nature of freshwater adaptation provides a system where we can study regulatory changes that have occurred in parallel in independent bouts of adaptation.
 
@@ -24,7 +24,7 @@ Variation in gene regulatory mechanisms play an important role in producing phe
 
 During my post-doct at the Jones lab (FML/MPI Tuebingen), I characterised gene regulatory divergence between freshwater and marine sticklebacks in order to better understand the contribution of different regulatory mechanisms to adaptation and incipient speciation. To reach this goal I used whole-genome and mRNA sequencing combined with bioinformatics and statistical analyses to explore the ways in which gene expression divergence in the gill tissue is linked parallel freshwater adaptation.
 
-#### eQTL architecture and expression evolution in conifers*
+#### eQTL architecture and expression evolution in conifers
 
 Understanding the genetic basis of variation in phenotypes is a central goal in genetics, and essential for deciphering how genetic variation facilitates evolution. Current approaches allow the genetic tracking of complex genomic phenotypes in only a few species, limiting the ecological and evolutionary contexts where the effects of genetic variation can be studied.
 
