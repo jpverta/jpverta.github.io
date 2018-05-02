@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![]({{ BASE_PATH }}/figures/frontMatterJPV.jpeg)
+![]({{ BASE_PATH }}/figures/frontMatterJPV.jpg)

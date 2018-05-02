@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-![]({{ BASE_PATH }}/figures/contactJPV.jpeg)
+![]({{ BASE_PATH }}/figures/contactJPV.jpg)
 *Drop me a line!*  
 
 Jukka-Pekka Verta  
