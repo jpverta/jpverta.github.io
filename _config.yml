@@ -18,7 +18,7 @@ email: jukka-pekka.verta@helsinki.fi
 description: >- # this means to ignore newlines until "baseurl:"
   Evolutionary systems genetics is the homepage of J-P Verta, a post-doc at the University of Helsinki interested in evolution, genetics and conservation.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://jpverta.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jpverta
 github_username:  jpverta
 
