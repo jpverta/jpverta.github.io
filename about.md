@@ -12,4 +12,4 @@ Early in modern genetics when comparisons between species became possible King &
 
 I investigate the roles of gene regulatory mechanisms in the divergence of species, populations and sexes. I study natural populations with the overarching goal to link regulatory evolution with adaptation and incipient speciation. Many of the approaches that I use are based on systems genetics - the study of how interacting levels of gene regulation (such as epigenetic marks and gene transcription) combine genetic information and translate it to produce variation in life.
 
-In addition to my work in basic research, I'm an aspiring conservationist who tries to raise awareness of species in risk and to translate genetics research into smart choises for the public and decision makers.
+In addition to my work in basic research, I try to raise awareness of species in risk and to translate genetics research into smart choises for the public and decision makers.
