@@ -11,7 +11,7 @@ Trade-offs between the pace of maturation and the number of progeny are common i
 
 The genetic basis of age at maturity (when salmon return to spawn) has been mapped to a region of chromosome 25 containing the gene vgll3 (Barson, Aykanat et al. Nature 2015). Two alleles at vgll3 (E for early maturity and L for late) explain nearly 40% of variation in age at maturity. vgll3 is a transcription co-factor that is involved in fat tissue differentiation in fish and mammals, but how it could control for age at maturity is not known.
 
-![Adapted from Barson, Aykanat et al. Nature 2015](figures/vgll3dominance.jpg)
+![Adapted from Barson, Aykanat et al. Nature 2015](/Users/verta/myblog/jpverta.github.io/figures/vgll3dominance.jpg)
 Female and male salmon maturation being controlled by the same vgll3 region produces sexual conflict - female fitness favours the L allele, while male fitness favours the E allele. This sexual conflict is resolved in heterozygous salmon by sex-dependent dominance: female fish that have both alleles mature later, while male heterozygous fish mature early (see figure). From an evolutionary perspective, the sex-dependent dominance observed in salmon is a mechanism for sexual conflict resolution that maintains adaptive variation within populations. My post-doc at the Primmer lab addresses the molecular mechanisms how sex-dependent dominance in vgll3 is encoded in the salmon genome.
 
 #### Genetic basis of gene expression divergence in threespine sticklebacks
