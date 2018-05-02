@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-*#### What is evolutionary systems genetics?
+#### What is evolutionary systems genetics?
 
 Evolution is the fundamental source of diversity of life. Over 150 years after Darwin, we are still continuing to discover new and amazing ways evolution contributes to biological diversity, both within a species and among them.  Understanding the mechanisms that are responsible of evolution has been, and still is, a central goal in biology.
 
