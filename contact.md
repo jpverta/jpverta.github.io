@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-![J-P]({{ BASE_PATH }}/figures/figure1_verta_new_phytol.jpg)  
+![J-P]({{ BASE_PATH }}/figures/profile.jpg)  
 
 Jukka-Pekka Verta  
 University of Helsinki  
