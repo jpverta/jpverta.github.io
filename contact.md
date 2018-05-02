@@ -15,4 +15,4 @@ Viikinkaari 9
 
 [Department page](https://tuhat.helsinki.fi/portal/en/persons/jukkapekka-verta(7473540f-fa03-4b33-9e49-ace212d0aabd).html)  
 
-[Primmer lab website](http://www.helsinki.fi/evolution-conservation-and-genomics)
+[Evolution, Conservation and Genomics lab website](http://www.helsinki.fi/evolution-conservation-and-genomics)
