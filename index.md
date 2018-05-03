@@ -5,7 +5,7 @@
 layout: home
 ---
 
-J-P Verta - University of Helsinki - Evolution, genetics and conservation  
+#### J-P Verta - University of Helsinki - Evolution, genetics and conservation  
 
 ![]({{ BASE_PATH }}/figures/frontMatterJPV.jpg)  
 
