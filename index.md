@@ -5,8 +5,9 @@
 layout: home
 ---
 
-![]({{ BASE_PATH }}/figures/frontMatterJPV.jpg)  
-
 Evolutionary Systems Genetics is the homepage of J-P Verta, a post-doc at the University of Helsinki studying evolution, genetics and conservation.  
 
-In addition to my work in basic research, I try to raise awareness of species in risk and to translate genetics research into smart choises for the public and decision makers.
+In addition to my work in basic research, I work towards making genetics research accessible among the public and raise awereness of species in risk.  
+
+![]({{ BASE_PATH }}/figures/frontMatterJPV.jpg)  
+
