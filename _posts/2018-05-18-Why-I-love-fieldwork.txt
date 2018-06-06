@@ -1,0 +1,4 @@
+The reason are moments like this.
+
+![]({{ BASE_PATH }}/figures/fieldWorkGoldenMoment.jpg) 
+
