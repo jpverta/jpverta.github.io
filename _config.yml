@@ -25,7 +25,7 @@ BASE_PATH: /Users/verta/myblog/jpverta.github.io/
 
 # Build settings
 markdown: kramdown
-theme: sleek
+theme: jekyll_sleek
 plugins:
   - jekyll-feed
 
