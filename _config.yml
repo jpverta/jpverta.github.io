@@ -16,7 +16,8 @@
 title: Evolutionary Systems Genetics
 email: jukka-pekka.verta@helsinki.fi
 description: >- # this means to ignore newlines until "baseurl:"
-  J-P Verta - Post-doc at the University of Helsinki interested in evolution, genetics and conservation.
+  Post-doc at the University of Helsinki interested in evolution, genetics and conservation.
+  
   <img align="right" width="75" height="100" src="http://jpverta.github.io/figures/profile.jpg">
 
 baseurl: "" # the subpath of your site, e.g. /blog
