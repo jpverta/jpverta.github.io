@@ -5,9 +5,9 @@
 layout: home
 ---
 
-#### J-P Verta - Primmer lab post-doc - University of Helsinki - Evolution, genetics and conservation  
+<img align="right" width="300" height="375" src="http://jpverta.github.io/figures/shakingHandsWithSalmon.jpg">
 
-<img align="right" width="300" height="350" src="http://jpverta.github.io/figures/shakingHandsWithSalmon.jpg">
+*J-P Verta - Primmer lab post-doc - University of Helsinki - Evolution, genetics and conservation*  
 
 I investigate the roles of gene regulatory mechanisms in the divergence of species, populations and sexes. Presently I study Atlantic salmon with the overarching goal to link variation in life-history traits to gene regulatory evolution. Many of the approaches that I use are based on systems genetics - the study of how interacting levels of gene regulation (such as epigenetic marks and gene transcription) combine genetic information and translate it to produce biological diversity.
 
