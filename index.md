@@ -13,4 +13,4 @@ I investigate the roles of gene regulatory mechanisms in the divergence of speci
 
 In addition to basic research, I work towards making genetics research accessible among the public and raise awereness of species in risk.
 
-<img align="right" src="![]({{ BASE_PATH }}/figures/shakingHandsWithSalmonSmall.jpg)">
+<img align="right" width="300" height="300" src="![]({{ BASE_PATH }}/figures/shakingHandsWithSalmon.jpg)">
