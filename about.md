@@ -1,4 +1,8 @@
---- layout: page title: About permalink: /about/ ---
+--- 
+layout: page 
+title: About 
+permalink: /about/ 
+---
 
 #### What is evolutionary systems genetics? #### 
 
