@@ -26,7 +26,7 @@ BASE_PATH: /Users/verta/myblog/jpverta.github.io/
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
   - jekyll-paginate
