@@ -15,3 +15,7 @@ Prunier J, Verta J-P & Mackay J. 2016: Conifer genomics and adaptation: at the c
 Verta J-P, Landry CR & MacKay J. 2013: Are long-lived trees poised for evolutionary change? Single locus effects in the evolution of gene expression networks in spruce. Molecular Ecology 22(9):2369–2379 * cover article
 
 Raherison ES, Rigault P, Caron S, Poulin PL, Boyle B, Verta J-P, Giguère I, Bomal C, Bohlmann J & Mackay J. 2012: Transcriptome profiling in conifers and the PiceaGenExpress database show patterns of diversification within gene families and interspecific conservation in vascular gene expression, BMC Genomics 13(1):434
+
+#### Articles in popular press
+
+Verta J-P. 2018: Suurlohigeenin jäljillä, Pohjolan Perhokalastaja, 3/2018
