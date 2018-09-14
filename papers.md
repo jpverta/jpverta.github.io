@@ -4,6 +4,11 @@ title: Papers
 permalink: /papers/
 ---
 
+#### Pre-prints
+
+Verta J-P & Jones F. 2018: Predominance of cis-regulatory changes in parallel expression divergence of sticklebacks. bioRxiv 412932; doi: https://doi.org/10.1101/412932
+
+
 #### Peer-reviewed articles
 
 Verta J-P, Landry CR & MacKay J. 2016: Dissection of eQTL allele-specificity using a haploid/diploid plant system – insights into compensatory evolution of transcriptional regulation within populations. New Phytologist, 211: 159-171
