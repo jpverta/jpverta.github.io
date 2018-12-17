@@ -8,6 +8,7 @@ permalink: /papers/
 
 Verta J-P & Jones F. 2018: Predominance of cis-regulatory changes in parallel expression divergence of sticklebacks. bioRxiv 412932; doi: https://doi.org/10.1101/412932
 
+Ojeda D, Mattila T, Ruttlink T, Kujala S, Kärkkäinen K, Verta J-P & Pyhäjärvi T. 2018: Utilization of tissue ploidy level variation in de novo transcriptome assembly of Pinus sylvestris. bioRxiv 495689; doi: https://doi.org/10.1101/495689
 
 #### Peer-reviewed articles
 
