@@ -44,4 +44,4 @@ plugins:
 #   - vendor/ruby/
 
 paginate: 4
-paginate_path: "/_posts/page:num/"
+paginate_path: "/page-:num/"
