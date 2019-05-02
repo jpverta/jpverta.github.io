@@ -6,9 +6,9 @@ permalink: /papers/
 
 #### Peer-reviewed articles
 
-Verta J-P & Jones F. 2018: Predominance of cis-regulatory changes in parallel expression divergence of sticklebacks. *eLife* in press. [PDF](https://www.biorxiv.org/content/10.1101/412932v2)
+Verta J-P & Jones F. 2019: Predominance of cis-regulatory changes in parallel expression divergence of sticklebacks. *eLife* in press. [PDF](https://www.biorxiv.org/content/10.1101/412932v2)
 
-Ojeda D, Mattila T, Ruttlink T, Kujala S, Kärkkäinen K, Verta J-P & Pyhäjärvi T. 2018: Utilization of tissue ploidy level variation in de novo transcriptome assembly of Pinus sylvestris. *G3* in press. [PDF](https://www.biorxiv.org/content/10.1101/495689v1.abstract)
+Ojeda D, Mattila T, Ruttlink T, Kujala S, Kärkkäinen K, Verta J-P & Pyhäjärvi T. 2019: Utilization of tissue ploidy level variation in de novo transcriptome assembly of Pinus sylvestris. *G3* in press. [PDF](https://www.biorxiv.org/content/10.1101/495689v1.abstract)
 
 Verta J-P, Landry CR & MacKay J. 2016: Dissection of eQTL allele-specificity using a haploid/diploid plant system – insights into compensatory evolution of transcriptional regulation within populations. *New Phytologist*, 211: 159-171 [PDF](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.13888)
 
