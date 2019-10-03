@@ -4,6 +4,10 @@ title: Papers
 permalink: /papers/
 ---
 
+#### Preprint articles
+
+**Verta J-P**, Debes P V, Piavchenko N, Ruokolainen A, Ovaskainen O, Moustakas-Verho J E, Tillanen S, Parre N, Aykanat T, Erkinaro J, Primmer C R. 2019: Regulatory divergence in *vgll3* underlies variation in age at maturity in male Atlantic salmon. **bioRxiv**, 777300. [link](https://www.biorxiv.org/content/10.1101/777300v1)
+
 #### Peer-reviewed articles
 
 Ojeda D, Mattila T, Ruttlink T, Kujala S, Kärkkäinen K, **Verta J-P** & Pyhäjärvi T. 2019: Utilization of tissue ploidy level variation in de novo transcriptome assembly of Pinus sylvestris. **G3** early online. [link](https://www.g3journal.org/content/early/2019/08/19/g3.119.400357.abstract)
