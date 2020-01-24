@@ -10,7 +10,7 @@ permalink: /papers/
 
 #### Peer-reviewed articles
 
-Ojeda D, Mattila T, Ruttlink T, Kujala S, Kärkkäinen K, **Verta J-P** & Pyhäjärvi T. 2019: Utilization of tissue ploidy level variation in de novo transcriptome assembly of Pinus sylvestris. **G3** early online. [link](https://www.g3journal.org/content/early/2019/08/19/g3.119.400357.abstract)
+Ojeda D, Mattila T, Ruttlink T, Kujala S, Kärkkäinen K, **Verta J-P** & Pyhäjärvi T. 2019: Utilization of tissue ploidy level variation in de novo transcriptome assembly of Pinus sylvestris. **G3** 9: 3409-3421. [link](https://www.g3journal.org/content/early/2019/08/19/g3.119.400357.abstract)
 
 **Verta J-P** & Jones F. 2019: Predominance of cis-regulatory changes in parallel expression divergence of sticklebacks. **eLife**, 8:e43785. [link](https://elifesciences.org/articles/43785)
 
