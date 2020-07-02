@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-<img align="right" width="275" height="375" src="http://jpverta.github.io/figures/profile.jpg">
+<img align="right" width="375" height="375" src="http://jpverta.github.io/figures/profile.jpg">
 
 Jukka-Pekka Verta  
 University of Helsinki  
