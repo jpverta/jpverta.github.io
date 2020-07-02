@@ -4,12 +4,11 @@ title: Contact
 permalink: /contact/
 ---
 
-![]({{ BASE_PATH }}/figures/contactJPV.jpg)
-*Drop me a line!*  
+![]({{ BASE_PATH }}/figures/profile.jpg)
 
 Jukka-Pekka Verta  
 University of Helsinki  
-Organismal and Evolutionary Biology  
+Organismal and Evolutionary Biology  Research Programme
 Viikinkaari 9  
 00790 Helsinki, Finland
 
