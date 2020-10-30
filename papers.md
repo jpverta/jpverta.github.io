@@ -10,7 +10,7 @@ permalink: /papers/
 
 Andrew S, Primmer C, Debes P, Erkinaro J, **Verta J-P** 2020: The Atlantic salmon whole blood transcriptome and how it relates to major locus maturation genotypes and other tissues **Marine Genomics** 100809 [link](https://www.sciencedirect.com/science/article/pii/S1874778720300702)
 
-**Verta J-P** & Jones F. 2020: mRNA extraction from gill tissue for RNA-sequencing **Bio-Protocol**, in press.
+**Verta J-P** & Jones F. 2020: mRNA extraction from gill tissue for RNA-sequencing **Bio-Protocol** 10(5):e3539 [link](https://bio-protocol.org/pdf/bio-protocol3539.pdf)
 
 Ojeda D, Mattila T, Ruttlink T, Kujala S, Kärkkäinen K, **Verta J-P** & Pyhäjärvi T. 2019: Utilization of tissue ploidy level variation in de novo transcriptome assembly of Pinus sylvestris. **G3** 9: 3409-3421. [link](https://www.g3journal.org/content/early/2019/08/19/g3.119.400357.abstract)
 
