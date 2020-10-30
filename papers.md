@@ -4,11 +4,11 @@ title: Papers
 permalink: /papers/
 ---
 
-#### Preprint articles
-
-**Verta J-P**, Debes P V, Piavchenko N, Ruokolainen A, Ovaskainen O, Moustakas-Verho J E, Tillanen S, Parre N, Aykanat T, Erkinaro J, Primmer C R. 2019: Regulatory divergence in *vgll3* underlies variation in age at maturity in male Atlantic salmon. **bioRxiv**, 777300. [link](https://www.biorxiv.org/content/10.1101/777300v1)
-
 #### Peer-reviewed articles
+
+**Verta J-P**, Debes P, Piavchenko N, Ruokolainen A, Ovaskainen O, Moustakas-Verho J, Tillanen S, Parre N, Aykanat T, Erkinaro J, Primmer C. 2020: Cis-regulatory differences in isoform expression associate with life history strategy variation in Atlantic salmon **PLOS Genetics**  16(9), e1009055.  [link](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009055)
+
+Andrew S, Primmer C, Debes P, Erkinaro J, **Verta J-P** 2020: The Atlantic salmon whole blood transcriptome and how it relates to major locus maturation genotypes and other tissues **Marine Genomics** 100809 [link](https://www.sciencedirect.com/science/article/pii/S1874778720300702)
 
 **Verta J-P** & Jones F. 2020: mRNA extraction from gill tissue for RNA-sequencing **Bio-Protocol**, in press.
 
