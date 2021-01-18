@@ -6,6 +6,8 @@ permalink: /papers/
 
 #### Pre-print articles
 
+**Verta J-P**, Barton H, Pritchard V, Primmer C. 2020: Genetic drift dominates genome-wide regulatory evolution following an ancient whole genome duplication in Atlantic salmon **bioRxiv** [link](https://www.biorxiv.org/content/10.1101/2020.11.20.389684v1.abstract)
+
 Mobley K, Aykanat T, Czorlich Y, House A, Kurko J, Miettinen A, Moustakas-Verho J, Salgado A, Sinclair-Waters M,  **Verta J-P**, Primmer C. 2020: Maturation in Atlantic salmon (Salmo salar, Salmonidae): a synthesis of ecological, genetic, and molecular processes **EcoEvoRxiv** [link](https://ecoevorxiv.org/u8zjm/)
 
 #### Peer-reviewed articles
