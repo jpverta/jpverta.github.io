@@ -6,7 +6,7 @@ permalink: /papers/
 
 #### Pre-print articles
 
-Mobley K, Aykanat T*, Czorlich Y*, House A*, Kurko J*, Miettinen A*, Moustakas-Verho J*, Salgado A*, Sinclair-Waters M*,  **Verta J-P***, Primmer C. 2020: Maturation in Atlantic salmon (Salmo salar, Salmonidae): a synthesis of ecological, genetic, and molecular processes **EcoEvoRxiv** [link](https://ecoevorxiv.org/u8zjm/) 
+Mobley K, Aykanat T/*, Czorlich Y/*, House A/*, Kurko J/*, Miettinen A/*, Moustakas-Verho J/*, Salgado A/*, Sinclair-Waters M/*,  **Verta J-P***, Primmer C. 2020: Maturation in Atlantic salmon (Salmo salar, Salmonidae): a synthesis of ecological, genetic, and molecular processes **EcoEvoRxiv** [link](https://ecoevorxiv.org/u8zjm/) 
 * equal contribution, listed in alphabetical order
 
 #### Peer-reviewed articles
