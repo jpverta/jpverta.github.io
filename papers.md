@@ -35,6 +35,6 @@ Raherison ES, Rigault P, Caron S, Poulin PL, Boyle B, **Verta J-P**, Giguère I,
 
 #### Articles in popular press
 
-**Verta J-P**. 2021: Lohet eivät löydä kotiin, **Pohjolan Perhokalastaja**, 3/2021
+**Verta J-P**. 2021: Lohet eivät löydä kotiin, **Pohjolan Perhokalastaja**, 2/2021
 
 **Verta J-P**. 2018: Suurlohigeenin jäljillä, **Pohjolan Perhokalastaja**, 3/2018
