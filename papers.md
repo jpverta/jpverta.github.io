@@ -6,6 +6,8 @@ permalink: /papers/
 
 #### Peer-reviewed articles
 
+**Verta J-P**, Jacobs A. 2021: The role of alternative splicing in adaptation and evolution **Trends in Ecology & Evolution** in press [link](https://www.sciencedirect.com/science/article/pii/S0169534721003153)
+
 Mobley K, Aykanat T\*, Czorlich Y\*, House A\*, Kurko J\*, Miettinen A\*, Moustakas-Verho J\*, Salgado A\*, Sinclair-Waters M\*,  **Verta J-P**\*, Primmer C. 2021: Maturation in Atlantic salmon (Salmo salar, Salmonidae): a synthesis of ecological, genetic, and molecular processes **Reviews in Fish Biology and Fisheries** 31: 523–571. [link](https://link.springer.com/article/10.1007/s11160-021-09656-w) \* equal contribution, listed in alphabetical order
 
 **Verta J-P**, Barton H, Pritchard V, Primmer C. 2021: Genetic drift dominates genome-wide regulatory evolution following an ancient whole genome duplication in Atlantic salmon **Genome Biology and Evolution** evab059 [link](https://academic.oup.com/gbe/article/13/5/evab059/6179807?login=true)
