@@ -42,6 +42,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-paginate: 4
-paginate_path: "/page-:num/"

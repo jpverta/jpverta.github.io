@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-![]({{ BASE_PATH }}/figures/profile.jpg)
+![]({{ BASE_PATH }}/figures/profile.jpeg)
 
 Jukka-Pekka Verta  
 University of Helsinki  
