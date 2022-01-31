@@ -1,3 +1,0 @@
-After three years in Tübingen time has come for heading towards new adventures. I have the great pleasure and honour to join Craig Primmer and his wonderful team of very motivated scientists at the University of Helsinki in Finland. To me it will be a change in systems, moving from stickleback to salmon, but the overall theme remains the same - molecular gene regulation and it's link to adaptive traits. Bets are increasing and I will work on my most challenging scientific question thus far when I will try to dissect the molecular mechanisms of sex-dependent dominance in age-at-maturity in salmon. On another level, it will be a return to home after almost ten years of academic life abroad. And hopefully much more fishing.
-
-![]({{ BASE_PATH }}/figures/JPandSalmon.jpg)  
