@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<img align="center" width="400" height="150" src="http://jpverta.github.io/figures/frontMatterJPV.jpg">
+<img align="center" width="800" height="150" src="http://jpverta.github.io/figures/frontMatterJPV.jpg">
 
 **J-P Verta - Primmer lab post-doc - University of Helsinki - Evolution, genetics and conservation**
 

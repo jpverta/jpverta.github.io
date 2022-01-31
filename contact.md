@@ -4,8 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-![]({{ BASE_PATH }}/figures/profile.jpeg)
-
+<img align="right" width="275" height="375" src="http://jpverta.github.io/figures/profile.jpeg">
 Jukka-Pekka Verta  
 University of Helsinki  
 Organismal and Evolutionary Biology  Research Programme
