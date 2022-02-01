@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
-permalink: /contact/
+title: People
+permalink: /people/
 ---
 
 <img align="right" width="275" height="375" src="http://jpverta.github.io/figures/profile.jpeg">
