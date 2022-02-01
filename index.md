@@ -10,7 +10,7 @@ layout: home
 
 ## Welcome
 
-I study the evolutionary, ecological and developmental processes underlying adaptation and species diversification. My research aims to understand the molecular mechanisms behind the divergence of species, populations and sexes. My long-term goal is that by dissecting the functional genetic basis of evolutionary processes we can gain insight into the mechanisms of adaptation that will help us to conserve biodiversity and inform decisions on use of natural resources.
+I study the genetic, ecological and developmental processes underlying adaptation and species diversification. My research aims to understand the molecular mechanisms behind the divergence of species, populations and sexes. My long-term goal is that by dissecting the functional genetic basis of evolutionary processes we can gain insight into the mechanisms of adaptation that will help us to conserve biodiversity and inform decisions on use of natural resources.
 
 ## Topics
 
