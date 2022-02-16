@@ -6,7 +6,7 @@ layout: home
 ---
 <img align="center" width="800" height="150" src="http://jpverta.github.io/figures/frontMatterJPV.jpg">
 
-**J-P Verta - Primmer lab postdoc - University of Helsinki - Evolution, genetics and conservation**
+**J-P Verta - University Researcher - University of Helsinki - Evolution, genetics and conservation**
 
 ## Welcome
 
