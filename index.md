@@ -6,11 +6,11 @@ layout: home
 ---
 <img align="center" width="800" height="150" src="http://jpverta.github.io/figures/frontMatterJPV.jpg">
 
-**J-P Verta - Postdoctoral Researcher - University of Helsinki - Evolution, genetics and conservation**
+**J-P Verta - Postdoctoral Researcher - University of Helsinki - Evolutionary genomics**
 
 ## Welcome
 
-I study the genetic, ecological and developmental processes underlying adaptation and species diversification. My research aims to understand the molecular mechanisms behind the divergence of species, populations and sexes. My long-term goal is that by dissecting the functional genetic basis of evolutionary processes we can gain insight into the mechanisms of adaptation that will help us to conserve biodiversity and inform decisions on the sustainable management of natural resources.
+The overarching goal of my research is to understand the mechanisms that create and maintain phenotypic diversity from the molecular to the species level. To reach this goal, I study the genetic and molecular basis of complex adaptive phenotypes such as life histories, as such traits underlie much of biological diversity and provide keys to understand evolution.
 
 ## Topics
 
