@@ -6,15 +6,15 @@ permalink: /cv/
 
 *Keywords:* ecological and evolutionary genomics, transcriptomics, epigenetics, expression-QTL, adaptation
 
-April 2024 Associate Professor
+April 2024 Associate Professor  
 Nord University, Norway
 
 2023-2024 Marie Sklodowska-Curie Postdoctoral fellow  
-University of Helsinki, Finland
-Concordia University, Canada
-Project: SalmoScales - Evolution and molecular mechanisms of organ allometry in Atlantic salmon (Salmo salar)
-Supervisor: Frederic Guillaume
-Hosts: Dylan Fraser & Alisa Piekny
+University of Helsinki, Finland  
+Concordia University, Canada  
+Project: SalmoScales - Evolution and molecular mechanisms of organ allometry in Atlantic salmon (Salmo salar)  
+Supervisor: Frederic Guillaume  
+Hosts: Dylan Fraser & Alisa Piekny  
 
 2018-2023 Postdoctoral fellow  
 University of Helsinki, Finland  
