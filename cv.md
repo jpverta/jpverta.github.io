@@ -6,7 +6,8 @@ permalink: /cv/
 
 *Keywords:* ecological and evolutionary genomics, transcriptomics, epigenetics, expression-QTL, adaptation
 
-April 2024 Associate Professor  
+April 2024 Associate Professor of Genomics  
+Faculty of Aquaculture and Biosciences  
 Nord University, Norway
 
 2023-2024 Marie Sklodowska-Curie Postdoctoral fellow  
