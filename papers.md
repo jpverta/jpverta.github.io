@@ -4,6 +4,12 @@ title: Papers
 permalink: /papers/
 ---
 
+#### Pre-print articles / in review
+
+**Verta J-P**,Moustakas-Verho J, Donner I, Frapin M, Ruokolainen A, Debes PV, Erkinaro J, Primmer C. 2024: A complex mechanism translating variation of a simple genetic architecture into alternative life-histories **bioRxiv** https://doi.org/10.1101/2024.01.05.574286 [link](https://www.biorxiv.org/content/10.1101/2024.01.05.574286v1.abstract)
+
+Ahi EP, **Verta J-P**, Kurko J, Ruokolainen A, Singh P, Debes PV, Erkinaro J, Primmer C. 2023: Gene co-expression patterns in Atlantic salmon adipose tissue provide a molecular link between seasonal changes, energy balance and age at maturity **bioRxiv** https://doi.org/10.1101/2023.08.30.555548 [link](https://www.biorxiv.org/content/10.1101/2023.08.30.555548v1.abstract)
+
 #### Peer-reviewed articles
 
 **Verta J-P**, Jacobs A. 2022: The role of alternative splicing in adaptation and evolution **Trends in Ecology & Evolution** 37: 299-308 [link](https://www.sciencedirect.com/science/article/pii/S0169534721003153)
