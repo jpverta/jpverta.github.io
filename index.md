@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<img align="center" width="1200" height="350" src="http://jpverta.github.io/figures/IMG_5946.jpeg">
+<img align="center" width="1200" height="300" src="http://jpverta.github.io/figures/IMG_5946.jpeg">
 
 **J-P Verta - Associate Professor - Nord University**
 
