@@ -6,7 +6,7 @@ layout: home
 ---
 <img align="center" width="800" height="150" src="http://jpverta.github.io/figures/frontMatterJPV.jpg">
 
-**J-P Verta - Associate Professor - Nord University - Evolutionary genomics**
+**J-P Verta - Associate Professor - Nord University**
 
 ## Welcome
 
