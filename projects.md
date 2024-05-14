@@ -5,15 +5,13 @@ permalink: /projects/
 ---
 
 
-#### Molecular mechanisms of sex-dependent dominance in age at maturity of Atlantic salmon
+#### Molecular mechanisms of age at maturity variaiton in Atlantic salmon
 
 Trade-offs between life-history traits such as growth and reproduction are common in nature. One example of such evolutionary trade-off is seen in Atlantic salmon, which may grow to impressive size and produce thousands of eggs. Growing big in salmon is related to the number of years it spends at sea feeding. Feeding for a long period means potential for more offspring, but with the cost of increased risk of dying before reproducing. In Atlantic salmon this trade-off seems to be different for males and females - females tend to be bigger (and older) than males by the time the fish returns to its native river to spawn.
 
-The genetic basis of age at maturity (when salmon return to spawn) has been mapped to a region of chromosome 25 containing the gene vgll3 (Barson, Aykanat et al. Nature 2015). Two alleles at vgll3 (E for early maturity and L for late) explain nearly 40% of variation in age at maturity. vgll3 is a transcription co-factor that is involved in fat tissue differentiation in fish and mammals, but how it could control for age at maturity is not known.
+The genetic basis of age at maturity (when salmon return to spawn) has been mapped to a region of chromosome 25 containing the gene vgll3 (Barson, Aykanat et al. Nature 2015). Two alleles at vgll3 (E for early maturity and L for late) explain nearly 40% of variation in age at maturity. vgll3 is a transcription co-factor that is involved in fat tissue differentiation in fish and mammals, but how it could control for age at maturity is not known. During my post-doc at the Primmer lab, I studied the molecular mechanisms that translate vgll3 genotype variation into differences in age at maturity.
 
 ![Adapted from Barson, Aykanat et al. Nature 2015]({{ BASE_PATH }}/figures/vgll3dominance.jpg)
-
-Female and male salmon maturation being controlled by the same vgll3 region produces sexual conflict - female fitness favours the L allele, while male fitness favours the E allele. This sexual conflict is resolved in heterozygous salmon by sex-dependent dominance: female fish that have both alleles mature later, while male heterozygous fish mature early (see figure). From an evolutionary perspective, the sex-dependent dominance observed in salmon is a mechanism for sexual conflict resolution that maintains adaptive variation within populations. My post-doc at the Primmer lab addresses the molecular mechanisms how sex-dependent dominance in vgll3 is encoded in the salmon genome.
 
 #### Genetic basis of gene expression divergence in threespine sticklebacks
 
