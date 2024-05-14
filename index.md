@@ -6,11 +6,13 @@ layout: home
 ---
 <img align="center" width="800" height="150" src="http://jpverta.github.io/figures/frontMatterJPV.jpg">
 
-**J-P Verta - MSCA Postdoctoral fellow - University of Helsinki - Evolutionary genomics**
+**J-P Verta - Associate Professor - Nord University - Evolutionary genomics**
 
 ## Welcome
 
-The overarching goal of my research is to understand the mechanisms that create and maintain phenotypic diversity from the molecular to the species level. To reach this goal, I study the genetic and molecular basis of complex adaptive phenotypes such as life histories, as such traits underlie much of biological diversity and provide keys to understand evolution. I am currently a MSCA postdoctoral fellow at the University of Helsinki (Finland) and Concordia University (Canada). **I will be starting as Associate Professor of Genomics at Nord University, Norway in 2024.**
+The overarching goal of my research is to understand the mechanisms that create and maintain phenotypic diversity from the molecular to the species level. To reach this goal, I study the genetic and molecular basis of complex adaptive phenotypes such as life histories, as such traits underlie much of biological diversity and provide keys to understand evolution. 
+
+**I am looking for PhD students for 2025 - please don't hesitate to contact me**
 
 ## Topics
 
