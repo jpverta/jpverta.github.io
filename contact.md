@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 
-<img align="right" width="275" height="375" src="http://jpverta.github.io/figures/profile.jpeg">
+<img align="right" width="275" height="375" src="http://jpverta.github.io/figures/IMG_7450.jpeg">
 Jukka-Pekka Verta  
 Nord University
 Bodø, Norway
