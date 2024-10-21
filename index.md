@@ -12,8 +12,6 @@ layout: home
 
 The overarching goal of my research is to understand the mechanisms that create and maintain phenotypic diversity from the molecular to the species level. To reach this goal, I study the genetic and molecular basis of complex adaptive phenotypes such as life histories, as such traits underlie much of biological diversity and provide keys to understand evolution. 
 
-**I am looking for PhD students for 2025 - please don't hesitate to contact me**
-
 ## Topics
 
 **Evolution** is the fundamental source of diversity of life. Over 150 years after Darwin, we are still continuing to discover new and amazing ways evolution contributes to biological diversity, both within a species and among them. Understanding the mechanisms that are responsible of evolution has been, and still is, a central goal in biology.
