@@ -6,11 +6,11 @@ permalink: /papers/
 
 #### Pre-print articles / in review
 
-**Verta J-P**,Moustakas-Verho J, Donner I, Frapin M, Ruokolainen A, Debes PV, Erkinaro J, Primmer C. 2024: A complex mechanism translating variation of a simple genetic architecture into alternative life-histories **bioRxiv** https://doi.org/10.1101/2024.01.05.574286 [link](https://www.biorxiv.org/content/10.1101/2024.01.05.574286v1.abstract)
-
 Ahi E, **Verta J-P**, Kurko J, Ruokolainen A, Pooja S, Debes PV, Erkinaro J & Primmer C. 2024: A salmon fish model reveals genetic signals in brain associated with early maturation **bioRxiv** https://doi.org/10.1101/2024.03.18.585557 [link](https://www.biorxiv.org/content/10.1101/2024.03.18.585557v1)
 
 #### Peer-reviewed articles
+
+**Verta J-P**,Moustakas-Verho J, Donner I, Frapin M, Ruokolainen A, Debes PV, Erkinaro J, Primmer C. 2024: A complex mechanism translating variation of a simple genetic architecture into alternative life-histories **Proceedings of the National Academy of Sciences** in press [link](https://www.biorxiv.org/content/10.1101/2024.01.05.574286v1.abstract)
 
 **Verta J-P**, Jacobs A. 2024: The evolutionary significance of post-transcriptional regulation **Heredity** 132: 117-119 [link](https://www.nature.com/articles/s41437-024-00674-5)
 * editorial
