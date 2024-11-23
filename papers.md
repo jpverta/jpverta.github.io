@@ -6,12 +6,12 @@ permalink: /papers/
 
 #### Pre-print articles / in review
 
-Åsheim ER, Debes PV, House A, Liljeström P, Ruokolainen A, Frapin M, Donner I, Ahi EP, Erkinaro J, **Verta J-P** & Primmer C. 2024: Sex-, development-, and nutrition-dependent expression of a major age-at-maturity gene in Atlantic salmon **bioRxiv** https://www.biorxiv.org/content/10.1101/2024.09.15.613130v2.abstract [link](https://www.biorxiv.org/content/10.1101/2024.09.15.613130v2.abstract)
+Åsheim ER, Debes PV, House A, Liljeström P, Ruokolainen A, Frapin M, Donner I, Ahi EP, Erkinaro J, **Verta J-P** & Primmer C. 2024: Sex-, development-, and nutrition-dependent expression of a major age-at-maturity gene in Atlantic salmon **bioRxiv** [link](https://www.biorxiv.org/content/10.1101/2024.09.15.613130v2.abstract)
 * co-last author
 
-Ahi E, **Verta J-P**, Kurko J, Ruokolainen A, Pooja S, Debes PV, Erkinaro J & Primmer C. 2024: Hippo-vgll3 signaling may contribute to sex differences in Atlantic salmon maturation age via contrasting adipose dynamics **bioRxiv** https://www.biorxiv.org/content/10.1101/2024.10.21.619349v1 [link](https://www.biorxiv.org/content/10.1101/2024.10.21.619349v1)
+Ahi E, **Verta J-P**, Kurko J, Ruokolainen A, Pooja S, Debes PV, Erkinaro J & Primmer C. 2024: Hippo-vgll3 signaling may contribute to sex differences in Atlantic salmon maturation age via contrasting adipose dynamics **bioRxiv** [link](https://www.biorxiv.org/content/10.1101/2024.10.21.619349v1)
 
-Ahi E, **Verta J-P**, Kurko J, Ruokolainen A, Pooja S, Debes PV, Erkinaro J & Primmer C. 2024: A salmon fish model reveals genetic signals in brain associated with early maturation **bioRxiv** https://doi.org/10.1101/2024.03.18.585557 [link](https://www.biorxiv.org/content/10.1101/2024.03.18.585557v1)
+Ahi E, **Verta J-P**, Kurko J, Ruokolainen A, Pooja S, Debes PV, Erkinaro J & Primmer C. 2024: A salmon fish model reveals genetic signals in brain associated with early maturation **bioRxiv** [link](https://www.biorxiv.org/content/10.1101/2024.03.18.585557v1)
 
 #### Peer-reviewed articles
 
