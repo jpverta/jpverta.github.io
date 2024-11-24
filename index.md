@@ -6,7 +6,7 @@ layout: home
 ---
 <img align="center" src="http://jpverta.github.io/figures/IMG_5946.jpeg">
 
-**J-P Verta - Associate Professor - Nord University - FEG group website[link](https://feg-lab.github.io)**
+**J-P Verta - Associate Professor - Nord University - [FEG group website](https://feg-lab.github.io)**
 
 ## Welcome
 
