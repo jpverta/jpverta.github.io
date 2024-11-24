@@ -11,4 +11,4 @@ Bodø, Norway
 
 [Department page](https://www.nord.no/en/about/employees/jukka-pekka-verta)  
 
-I lead the Functional and EVolutionary Genomics lab at Nord University. Find out about our team [here](https://feg-lab.github.io).
+I lead the Functional and Evolutionary Genomics lab at Nord University. [Find out about our research and team here.](https://feg-lab.github.io)
